@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi9KernelPoweredBySeparate",
-      "repo": "https://github.com/Separatee/AllinOneKernel",
-      "branch": "main",
-      "device": "cepheus",
-      "defconfig": "cepheus_defconfig"
+      "name": "gnomerosemary",
+      "repo": "https://github.com/rama982/kernel_xiaomi_rosemary.git",
+      "branch": "R",
+      "device": "rosemary",
+      "defconfig": "rosemary_defconfig"
     },
     "toolchains": [
       {
